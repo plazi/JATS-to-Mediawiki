@@ -255,7 +255,7 @@
         </xsl:choose>
     </xsl:template>
 
-<!-- need linebreak before tag TC -->
+<!-- need linebreak before tag TC  -->
     <xsl:template match="abstract">
         <xsl:text>&#10;</xsl:text>
         <xsl:text>==Abstract==</xsl:text>
