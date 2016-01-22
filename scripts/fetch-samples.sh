@@ -57,7 +57,7 @@ main(){
       '56/cf/' \
       'Sensors_%28Basel%29_2010_Jul_16_10%287%29_6861-6900' \
       'Sensors_(Basel)_2010_Jul_16_10(7)_6861-6900'
-}
+}  
 
 create_folder(){
     if ! [ -d ${SAMPLEDIR} ]
